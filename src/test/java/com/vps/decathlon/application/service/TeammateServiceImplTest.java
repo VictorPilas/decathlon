@@ -1,5 +1,3 @@
-// Ubicación: src/test/java/com/vps/decathlon/application/service/TeammateServiceImplTest.java
-
 package com.vps.decathlon.application.service;
 
 import com.vps.decathlon.domain.entity.TeammateEntity;
