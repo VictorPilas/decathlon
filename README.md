@@ -7,7 +7,7 @@ REST API for managing teammates.
 ## 💡 Features
 
 - Java 21 + Spring Boot
-- `/prices`
+- `/api/teammates`
 - Configured with Docker and Docker Compose.
 - Interactive API documentation available in Swagger UI
 
